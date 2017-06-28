@@ -1,4 +1,4 @@
-npm-star
+npm-star [![npm version](https://img.shields.io/npm/v/npm-star.svg?style=flat)](https://www.npmjs.com/package/npm-star)
 ===
 
 > Star GitHub repositories of your project's npm dependencies. First inspired by [bundle-star](https://github.com/ma2gedev/bundle-star).
