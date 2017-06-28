@@ -2,8 +2,13 @@
   "name": "npm-star",
   "version": "0.0.1",
   "main": "index.js",
-  "author": "Lim Chee Aun <cheeaun@gmail.com>",
   "license": "MIT",
+  "repository": "cheeaun/npm-star",
+  "author": {
+    "name": "Lim Chee Aun",
+    "email": "cheeaun@gmail.com",
+    "url": "cheeaun.com"
+  },
   "bin": {
     "npm-star": "cli.js",
     "yarn-star": "cli.js"
@@ -12,6 +17,19 @@
     "cli": "./cli.js",
     "postinstall": "./cli.js"
   },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "npm",
+    "yarn",
+    "star",
+    "github",
+    "stars"
+  ],
   "dependencies": {
     "gh-got": "~6.0.0",
     "got": "~7.0.0",
