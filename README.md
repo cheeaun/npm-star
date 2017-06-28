@@ -3,7 +3,7 @@ npm-star [![npm version](https://img.shields.io/npm/v/npm-star.svg?style=flat)](
 
 > Star GitHub repositories of your project's npm dependencies. First inspired by [bundle-star](https://github.com/ma2gedev/bundle-star).
 
-![Screenshot of npm-star](screenshot.gif)
+<img src="screenshot.gif" alt="Screenshot of npm-star">
 
 Install
 ---
